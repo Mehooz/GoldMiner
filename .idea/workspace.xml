@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bee4dd8-2a03-44a2-b366-cff59df81efd" name="Default" comment="">
+      <change afterPath="E:/SVIPRN/.idea/SVIPRN.iml" afterDir="false" />
+      <change afterPath="E:/SVIPRN/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="E:/SVIPRN/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="E:/SVIPRN/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="E:/SVIPRN/.idea/misc.xml" afterDir="false" />
+      <change afterPath="E:/SVIPRN/.idea/modules.xml" afterDir="false" />
+      <change afterPath="E:/SVIPRN/.idea/other.xml" afterDir="false" />
+      <change afterPath="E:/SVIPRN/.idea/remote-mappings.xml" afterDir="false" />
+      <change afterPath="E:/SVIPRN/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="E:/SVIPRN/02691156_1a32f10b20170883663e90eaf6b4ca52_05.dat" afterDir="false" />
+      <change afterPath="E:/SVIPRN/chamfer_distance/__init__.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/chamfer_distance/chamfer_distance.cpp" afterDir="false" />
+      <change afterPath="E:/SVIPRN/chamfer_distance/chamfer_distance.cu" afterDir="false" />
+      <change afterPath="E:/SVIPRN/chamfer_distance/chamfer_distance.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/config/__init__.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/config/config.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/00/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/00/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/01/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/01/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/02/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/02/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/03/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/03/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/04/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/04/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/05/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/05/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/06/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/06/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/07/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/07/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/08/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/08/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/09/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/09/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/10/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/10/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/11/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/11/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/12/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/12/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/13/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/13/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/14/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/14/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/15/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/15/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/16/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/16/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/17/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/17/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/18/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/18/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/19/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/19/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/20/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/20/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/21/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/21/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/22/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/22/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/23/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/8143949bf6d5e294ff2c800153491d59/23/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/00/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/00/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/01/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/01/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/03/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/03/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/04/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/04/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/05/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/05/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/06/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/06/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/07/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/07/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/08/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/08/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/09/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/09/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/10/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/10/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/11/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/11/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/12/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/12/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/13/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/13/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/15/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/15/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/16/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/16/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/17/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/17/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/18/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/18/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/20/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/20/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/21/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/21/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/22/pc.npy" afterDir="false" />
+      <change afterPath="E:/SVIPRN/data_sample/fff8834b262dcf4aa89012425147541b/22/view.jpg" afterDir="false" />
+      <change afterPath="E:/SVIPRN/demo_psg.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/model/MVCNN.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/model/PSG.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/model/PVNet.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/model/__init__.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/model/cd_loss.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/model/discriminator.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/model/emd_loss.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/model/model_utils.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/test.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/train_PSG.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/train_PSG_classes.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/train_mvcnn.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/train_pvnet.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/utils/__init__.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/utils/data_fetcher.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/utils/data_fusion.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/utils/data_generation.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/utils/meter/__init__.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/utils/meter/apmeter.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/utils/meter/aucmeter.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/utils/meter/averagevaluemeter.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/utils/meter/classerrormeter.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/utils/meter/confusionmeter.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/utils/meter/mapmeter.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/utils/meter/meter.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/utils/meter/movingaveragevaluemeter.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/utils/meter/msemeter.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/utils/meter/retrievalmeter.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/utils/meter/timemeter.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/utils/pc_aug.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/utils/shapenet_extract.py" afterDir="false" />
+      <change afterPath="E:/SVIPRN/utils/test_list.txt" afterDir="false" />
+      <change afterPath="E:/SVIPRN/utils/train_list.txt" afterDir="false" />
+      <change afterPath="E:/SVIPRN/utils/xbox_0103.npy" afterDir="false" />
+      <change afterPath="E:/web summer semester project/assignment4/.idea/assignment4.iml" afterDir="false" />
+      <change afterPath="E:/web summer semester project/assignment4/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="E:/web summer semester project/assignment4/.idea/eslintPlugin.xml" afterDir="false" />
+      <change afterPath="E:/web summer semester project/assignment4/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="E:/web summer semester project/assignment4/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="E:/web summer semester project/assignment4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="E:/web summer semester project/assignment4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="E:/web summer semester project/assignment4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="E:/web summer semester project/assignment4/.idea/webServers.xml" afterDir="false" />
+    </list>
+    <ignored path="GoldMinerHtml5.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="GoldMinerHtml5" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Util.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-42">
+              <caret line="21" column="20" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resource.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2121">
+              <caret line="239" column="41" selection-start-line="239" selection-start-column="41" selection-end-line="239" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GameUi.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/tmx/baoxiangguo1.tmx">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1171">
+              <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SceneBaoXiangGuo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SceneStart.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4842">
+              <caret line="417" column="13" selection-start-line="417" selection-start-column="13" selection-end-line="417" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SceneMenu.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="111" column="25" selection-start-line="111" selection-start-column="25" selection-end-line="111" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Mineral.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="57" column="2" selection-start-line="57" selection-start-column="2" selection-end-line="57" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>E:\GoldMiner-master\GoldMiner-master\res</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="E:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/src/app.js" />
+        <option value="$PROJECT_DIR$/runtime/win32/src/SceneStart.js" />
+        <option value="$PROJECT_DIR$/src/Common.js" />
+        <option value="$PROJECT_DIR$/src/SceneMenu.js" />
+        <option value="$PROJECT_DIR$/src/Util.js" />
+        <option value="$PROJECT_DIR$/src/GameAnimation.js" />
+        <option value="$PROJECT_DIR$/project.json" />
+        <option value="$PROJECT_DIR$/src/GameLogic.js" />
+        <option value="$PROJECT_DIR$/src/resource.js" />
+        <option value="$PROJECT_DIR$/src/SceneStart.js" />
+        <option value="$PROJECT_DIR$/src/SceneBaoXiangGuo.js" />
+        <option value="$PROJECT_DIR$/src/SceneTongTianHe.js" />
+        <option value="$PROJECT_DIR$/src/SceneNvErGuo.js" />
+        <option value="$PROJECT_DIR$/src/SceneLingShan.js" />
+        <option value="$PROJECT_DIR$/src/Config.js" />
+        <option value="$PROJECT_DIR$/src/SceneHuoYanShan.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/GameUi.js" />
+        <option value="$PROJECT_DIR$/src/Mineral.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="width" value="1383" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GoldMinerHtml5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GoldMiner-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GoldMinerHtml5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GoldMiner-master" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GoldMinerHtml5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GoldMiner-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GoldMinerHtml5/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bee4dd8-2a03-44a2-b366-cff59df81efd" name="Default" comment="" />
+      <created>1475150494772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1475150494772</updated>
+      <workItem from="1495521646994" duration="1227000" />
+      <workItem from="1504057752010" duration="693000" />
+      <workItem from="1518071926780" duration="871000" />
+      <workItem from="1518159490028" duration="22000" />
+      <workItem from="1563001158393" duration="12402000" />
+      <workItem from="1563113716347" duration="2070000" />
+      <workItem from="1563191379131" duration="2076000" />
+      <workItem from="1563279034659" duration="2353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22320000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22557585" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33060557" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/base-nodes/CCNode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1571" column="4" selection-start-line="1571" selection-start-column="4" selection-end-line="1571" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCActionInterval.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="851" selection-start-line="851" selection-end-line="851" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UIButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="238" column="4" selection-start-line="238" selection-start-column="4" selection-end-line="238" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/CCDebugger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="307" column="12" selection-start-line="307" selection-start-column="12" selection-end-line="307" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runtime/win32/src/SceneStart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="610" column="26" selection-start-line="610" selection-start-column="16" selection-end-line="610" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/action/CCActionObject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/tilemap/CCTMXObjectGroup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="145" column="4" selection-start-line="145" selection-start-column="4" selection-end-line="145" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSprite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/layers/CCLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="88" column="4" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runtime/win32/src/Config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="70" column="4" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/jsb_cocos2d.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="396" column="22" selection-start-line="396" selection-start-column="22" selection-end-line="396" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/labels/CCLabelAtlas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simulator/win32/src/SceneBaoXiangGuo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="318" column="4" selection-start-line="318" selection-start-column="4" selection-end-line="318" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/CCScheduler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="548" column="4" selection-start-line="548" selection-start-column="4" selection-end-line="548" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCAction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="278" column="4" selection-start-line="278" selection-start-column="4" selection-end-line="278" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/develop/apache-tomcat-7.0.53/webapps/app/mouseHit/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/runtime/win32/src/GameUi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/tmx/bg01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoldMinerHtml5.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoldMinerHtml5.ccs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-780">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocosstudio/bangzhu2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocosstudio/baoxiang.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SceneHuoYanShan.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2184">
+          <caret line="104" column="28" selection-start-line="104" selection-start-column="28" selection-end-line="104" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SceneNvErGuo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SceneTongTianHe.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/Default/Button_Disable.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publish/html5/res/SceneGame/daojushuzi.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publish/html5/res/SceneGame/bajie.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publish/html5/res/SceneGame/bajie.plist">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publish/html5/res/SceneGame/add.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/3d/jsb_cocos2d_3d.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2415" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.cocos-project.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameAnimation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2856">
+          <caret line="136" column="1" selection-start-line="136" selection-start-column="1" selection-end-line="136" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SceneLingShan.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5523">
+          <caret line="263" column="23" selection-start-line="263" selection-start-column="23" selection-end-line="263" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.webapp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameLogic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2070">
+          <caret line="122" column="5" lean-forward="true" selection-start-line="122" selection-start-column="5" selection-end-line="122" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1171">
+          <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SceneMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="111" column="25" selection-start-line="111" selection-start-column="25" selection-end-line="111" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SceneBaoXiangGuo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SceneStart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4842">
+          <caret line="417" column="13" selection-start-line="417" selection-start-column="13" selection-end-line="417" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2121">
+          <caret line="239" column="41" selection-start-line="239" selection-start-column="41" selection-end-line="239" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mineral.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="57" column="2" selection-start-line="57" selection-start-column="2" selection-end-line="57" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameUi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/tmx/baoxiangguo1.tmx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
